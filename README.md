@@ -23,3 +23,9 @@ Saya menyelesaikan pendidikan gelar S1 di **[Sekolah Tinggi Teknologi Indonesia 
 
 Hal Dasar yang saya sukai dalam dunia Per-codingan adalah tantangan dalam *problem solving* dan harus terus *improvement* dalam skill coding, serta bekerja dalam tim.
 
+<p align="left">
+<a href="https://github.com/danilsyah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
