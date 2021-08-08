@@ -21,5 +21,5 @@ Saat ini saya bekerja di salah satu perusahaan ISP Swasta di Indonesia Sebagai T
 Saya bertanggung jawab pada kualitas dan pelayanan jaringan Internet.
 Saya menyelesaikan pendidikan gelar S1 di **[Sekolah Tinggi Teknologi Indonesia Tanjungpinang](https://sttindonesia.ac.id/)** dengan Program Studi **Sistem Informasi**.
 
-Hal Dasar yang saya sukai dalam dunia Per-codingan adalah tantangan dalam problem solving dan harus terus improvement dalam skill coding, serta bekerja dalam tim.
+Hal Dasar yang saya sukai dalam dunia Per-codingan adalah tantangan dalam *problem solving* dan harus terus *improvement* dalam skill coding, serta bekerja dalam tim.
 
