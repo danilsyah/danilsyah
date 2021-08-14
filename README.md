@@ -19,7 +19,7 @@ Perkenalkan Nama Saya **Danil Syah Arihardjo, S.Kom**.\
 Saya Seorang Suami sekaligus Ayah yang menyukai dunia IT, khususnya **Programming**.\
 Saat ini saya bekerja di salah satu perusahaan ISP Swasta di Indonesia Sebagai Teknisi Jaringan.\
 Saya bertanggung jawab pada kualitas dan pelayanan jaringan Internet.
-Saya menyelesaikan pendidikan gelar S1 di **[Sekolah Tinggi Teknologi Indonesia Tanjungpinang](https://sttindonesia.ac.id/)** dengan Program Studi **Sistem Informasi**.
+Saya menyelesaikan studi S1 di **[Sekolah Tinggi Teknologi Indonesia Tanjungpinang](https://sttindonesia.ac.id/)** dengan Program Studi **Sistem Informasi**.
 
 Hal Dasar yang saya sukai dalam dunia Per-codingan adalah tantangan dalam *problem solving* dan harus terus *improvement* dalam skill coding, serta bekerja dalam tim.
 
