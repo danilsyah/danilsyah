@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Perkenalkan Nama Saya **Danil Syah Arihardjo, S.Kom**.\
-Saya Seorang Suami sekaligus Ayah yang menyukai dunia IT, khususnya **Programming**.\
 Saat ini saya bekerja di salah satu perusahaan ISP Swasta di Indonesia Sebagai Teknisi Jaringan.\
 Saya bertanggung jawab pada kualitas dan pelayanan jaringan Internet.
 Saya menyelesaikan studi S1 di **[Sekolah Tinggi Teknologi Indonesia Tanjungpinang](https://sttindonesia.ac.id/)** dengan Program Studi **Sistem Informasi**.
