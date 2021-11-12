@@ -21,7 +21,7 @@ Saat ini saya bekerja di salah satu perusahaan ISP Swasta di Indonesia Sebagai T
 Saya bertanggung jawab pada kualitas dan pelayanan jaringan Internet.
 Saya menyelesaikan studi S1 di **[Sekolah Tinggi Teknologi Indonesia Tanjungpinang](https://sttindonesia.ac.id/)** dengan Program Studi **Sistem Informasi**.
 -->
-### I'm a Network Engineer & Backend Developer, Technologi Enthusiast !!
+### I'm a Network Engineer & Backend Developer, Technology Enthusiast !!
 
 Hal Dasar yang saya sukai dalam dunia Per-codingan adalah tantangan dalam *problem solving* dan harus terus *improvement* dalam skill coding, serta bekerja dalam tim.
 
