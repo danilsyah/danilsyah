@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm A Problem Solver
+# I'm a Problem Solver
 
 <p align="left">
 <a href="https://github.com/danilsyah">
