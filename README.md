@@ -1,4 +1,4 @@
-## Hi There 👋, I'm Danil !
+# Hi There 👋, I'm Danil !
 
 <!--
 **danilsyah/danilsyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm a Problem Solver
+## I'm a Problem Solver
 
 <p align="left">
 <a href="https://github.com/danilsyah">
